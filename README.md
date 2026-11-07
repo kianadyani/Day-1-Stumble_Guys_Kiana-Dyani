@@ -1,2 +1,5 @@
-# Day-1-Stumble_Guys_Kiana-Dyani
-Repository ini dibuat untuk mendokumentasikan kegiatan workshop Day-1, menyimpan materi dan rangkuman yang diperoleh selama kegiatan, serta menjadi referensi untuk pembelajaran lebih lanjut.
+Nama : Kiana Dyani
+Kelompok : 14_Stumble Guys
+Repository ini dibuat sebagai tempat penyimpanan dokumentasi dan catatan kegiatan workshop Day-1. Repository berisi materi, rangkuman, serta pengetahuan yang diperoleh selama kegiatan berlangsung.
+Repository ini bertujuan untuk mendokumentasikan kegiatan workshop, menyimpan materi yang telah dipelajari, serta menjadi referensi untuk pembelajaran selanjutnya.
+Kegiatan Workshop di day 1 Expectik 
