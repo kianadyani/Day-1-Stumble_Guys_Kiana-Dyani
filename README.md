@@ -1,5 +1,4 @@
 Nama : Kiana Dyani
 Kelompok : 14_Stumble Guys
-Repository ini dibuat sebagai tempat penyimpanan dokumentasi dan catatan kegiatan workshop Day-1. Repository berisi materi, rangkuman, serta pengetahuan yang diperoleh selama kegiatan berlangsung.
-Repository ini bertujuan untuk mendokumentasikan kegiatan workshop, menyimpan materi yang telah dipelajari, serta menjadi referensi untuk pembelajaran selanjutnya.
-Kegiatan Workshop di day 1 Expectik 
+Repository ini dibuat sebagai tempat penyimpanan dokumentasi datatan materi workshop Day-1 pada Expectik 2026. Repository berisi rangkuman materi serta dokumentasi selama kegiatan berlangsung.
+Repository ini bertujuan untuk mempelajari dan memanfaatkan elemen-elemen GitHub agar semakin mengenal GitHub, menjadi sarana menyimpan dokumentasi kegiatan workshop guna menjadi pembelajaran untuk kedepannya. 
